@@ -1,7 +1,7 @@
 # Photo-morphism-tool
 A photo morphism tool for morphing 3 images instead of 2
 
-So many of us have used photo morphism for several purposes right? Well, I always wanted to morph more than 2 images at a time, so I changed the formula of morphing 2 images a little bit, so that we can now morph 3 images together :)
+So many of us have used photo morphism for several purposes right? Well, I always wanted to morph more than 2 images at a time, so I changed the formula of morphing 2 images a little bit so that we can now morph 3 images together :)
 
 The formula is given below:
 
@@ -29,4 +29,4 @@ If 0 < t1, t2 < 1: The result is a smooth blend of A, B, and C.
 
 How to run the Code:
 
-Well, the code is pretty simple and easy to run, make sure you have OpenCV and numpy, along with software like R studio or something similar to adjust the trackbars in the images. Simply copy-paste the code on your PC and run in any python environment. Enjoy :)
+Well, the code is pretty simple and easy to run, make sure you have OpenCV and numpy, along with software like R studio or something similar to adjust the trackbars in the images. Simply copy-paste the code on your PC and run it in any Python environment. Enjoy :)
